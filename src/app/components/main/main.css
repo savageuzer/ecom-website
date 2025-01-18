@@ -1,0 +1,31 @@
+.main {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-heading {
+    width: 50%;
+}
+
+.main-image {
+    width: 50%;
+}
+
+.main-heading h2 {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 15px 0px;
+}
+
+.main-heading h3 {
+    font-size: 20px;
+}
+
+.main-heading button {
+    background-color: #02c8ef;
+    padding: 10px 15px;
+    border-radius: 10px;
+    gap: 150px;
+}

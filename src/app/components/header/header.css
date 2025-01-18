@@ -1,0 +1,80 @@
+.header-main{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 94%;
+    padding-top: 10px;
+}
+
+.header-logo h3 {
+    font-size: 22px;
+}
+
+.header-buttons{
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+}
+
+.header-buttons input {
+    border: 1px solid black;
+    padding: 5px 10px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.header-buttons button {
+    border: 1px solid black;
+    padding: 0px 10px;
+    border-radius: 10px;
+}
+
+button.card-button {
+    width: 130px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* main-header */
+
+.header-links{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 94%;
+    padding-top: 30px;
+}
+
+.navigation-button {
+    border: 1px solid black;
+    padding: 5px 18px 5px 18px;
+    border-radius: 10px;
+}
+
+.main-header-left {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-navigation {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+}
+
+.navigation-button button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
