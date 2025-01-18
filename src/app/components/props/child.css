@@ -1,0 +1,6 @@
+img.props-images {
+    width: 25%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
